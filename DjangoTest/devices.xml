@@ -1,0 +1,6 @@
+<Devices>
+    <packageName>com.qding.community</packageName>
+    <activityName>com.qding.community.business.home.activity.SplashActivity</activityName>
+    <testId>20171218</testId>
+    <apkPath>C://Users//QDHL//Desktop//apk//qd//3.2//qding-community-qa-_21_-debug(3).apk</apkPath>
+</Devices>

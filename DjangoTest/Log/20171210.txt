@@ -1,0 +1,20 @@
+关闭node服务:
+<os._wrap_close object at 0x0000020D01893EF0>
+启动appium server:
+
+-----------------测试次数1:
+
+冷启动时间:
+408
+热启动时间:
+695
+关闭node服务:
+<os._wrap_close object at 0x0000021862103EF0>
+启动appium server:
+
+-----------------测试次数1:
+
+冷启动时间:
+3535
+热启动时间:
+1657
